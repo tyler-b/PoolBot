@@ -3,7 +3,7 @@
 Provide monitoring, datalogging, and notification capabilities of critical pool parameters in a self-sufficient, low-maintenance device.
 
 Visit the wiki for project documentation
-[Project Description](https://github.com/tyler-b/PoolBot/wiki)
+[Project Documentation](https://github.com/tyler-b/PoolBot/wiki)
 ## Directory Structure
 ### docs
 Documentation files
