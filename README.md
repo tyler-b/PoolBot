@@ -8,6 +8,6 @@ Visit the wiki for project documentation
 ### docs
 Documentation files
 ### mech
-Mechanical file
+Mechanical files
 ### software
-Software and Code
+Software and Code files
