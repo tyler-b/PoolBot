@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="PoolBot System Drawing.svg">
+   sodipodi:docname="PoolBot System Drawing.svg"
+   inkscape:export-filename="C:\Users\Tyler\Desktop\poolbot repo\PoolBot\docs\PoolBot System Drawing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -858,7 +861,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3947405"
+     inkscape:zoom="0.69737025"
      inkscape:cx="358.06244"
      inkscape:cy="843.20802"
      inkscape:document-units="px"
@@ -877,7 +880,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
